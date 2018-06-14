@@ -1,0 +1,26 @@
+{
+  "bannerText": "Text Would Go Here. Two Lines and 52 characters max.",
+  "creatives": [{
+    "label": "watermark",
+    "options": [
+      "dark-blue",
+      "light-blue",
+      "light-green"
+    ]
+  },
+  {
+    "label": "color-triangles",
+    "options": [
+      "dark-blue",
+      "light-blue",
+      "light-green",
+      "white"
+    ]
+  },
+  {
+    "label": "white-triangles",
+    "options": [
+      "white"
+    ]
+  }]
+}
